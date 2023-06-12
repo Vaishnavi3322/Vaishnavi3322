@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Said</h1>
 <h3 align="center">A passionate Biomedical Student from India</h3>
 <img align="right" width=300 alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2K3qpz2MQktLECjam2mjhc2BX34GroTaO6A&usqp=CAU"
-
+     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavi3322&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavi3322" /> </p>
 
 - 🌱 I’m currently learning **Python**
@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vaishnavi said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaishnavi said" height="30" width="40" /></a>
 <a href="https://kaggle.com/vaishnavi said" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vaishnavi said" height="30" width="40" /></a>
+<a href="https://instagram.com/vaishnavisaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaishnavisaid" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
