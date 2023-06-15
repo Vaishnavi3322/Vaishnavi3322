@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Said</h1>
+
 <h3 align="center">A passionate Biomedical Student from India</h3>
+
 <img align="right" width=300 alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2K3qpz2MQktLECjam2mjhc2BX34GroTaO6A&usqp=CAU"
 
 - 🌱 I’m currently learning **Python**
