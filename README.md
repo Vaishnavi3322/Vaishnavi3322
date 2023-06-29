@@ -4,7 +4,6 @@
 <img align="right" width=300 alt="coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2K3qpz2MQktLECjam2mjhc2BX34GroTaO6A&usqp=CAU"
 
 - 🌱 I’m currently learning **Python**
-
 - 📫 Reach me **vaishnavisaid3322@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
